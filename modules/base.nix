@@ -10,7 +10,7 @@
     liberationFonts
   ];
 
-  security.sandbox.allowAll = false;
+  #security.sandbox.allowAll = false;
 
   # Note: Even though flakes are not used here,
   # the experimental features line is kept if desired.
